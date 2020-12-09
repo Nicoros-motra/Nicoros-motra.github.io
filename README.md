@@ -1,2 +1,2 @@
-# Nicoros-motra.github.io
+# Nicoros-motra        
 Мой первый опубликованный сайт
