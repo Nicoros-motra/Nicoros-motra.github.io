@@ -1,0 +1,12 @@
+.header {
+  background-color: aqua;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 20px;
+}
+.header span {
+  display: block;
+}
+.header:hover {
+  background-color: red;
+}
